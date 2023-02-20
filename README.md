@@ -1,4 +1,4 @@
-# Phần mềm quản lý tài chính
+# Phần mềm quản lý tài chính - nhóm 22
 Phần mềm quản lý tài chính là một ứng dụng desktop được phát triển bằng Qt Creator, cung cấp các chức năng quản lý giao dịch tài chính như thêm, sửa, xóa giao dịch, theo dõi các khoản thu chi, lập báo cáo tài chính, và cung cấp các thông tin liên quan đến tài chính cá nhân.
 
 Các tính năng
